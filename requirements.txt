@@ -6,4 +6,5 @@ dotenv
 duckduckgo_search
 tavily-python
 langchain_community
+reportlab
 openpyxl
