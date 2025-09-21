@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_groq
+langchain_core
+dotenv
+duckduckgo_search
+tavily-python
+langchain_community
+openpyxl
